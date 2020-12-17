@@ -28,4 +28,4 @@ This is a simple algorithm with only 3 steps, but algorithms can be complexe wit
 
 > Try It Yourself: Manually follow this algorithm to get the average age of the people in your group or at home in your family.
 
-[Next: RAM]()
+[Next: What is RAM?]()
