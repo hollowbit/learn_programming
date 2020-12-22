@@ -20,7 +20,7 @@ Programming is the creation of new algorithms.
 - Find results for an online search and sort the results by relevance
 
 Finding the average age of a group of people:
-1. Ask each person their age
+1. Get each person's age
 2. Add the ages together to get a total
 3. Divide the total by how many people
 
@@ -28,4 +28,4 @@ This is a simple algorithm with only 3 steps, but algorithms can be complexe wit
 
 > Try It Yourself: Manually follow this algorithm to get the average age of the people in your group or at home in your family.
 
-[Next: What is RAM?]()
+[Next: What is RAM?](Lesson-2-RAM/README.md)
