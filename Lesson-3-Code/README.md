@@ -58,7 +58,7 @@ You can also use variables inside of calculations:
 pi = 3.14159
 radius = 4.5
 diameter = 2 * radius
-circumference = 2 * pi * radius
+circumference = diameter * pi
 areaOfCircle = pi * (radius * radius)
 ```
 
