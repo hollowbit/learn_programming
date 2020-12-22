@@ -8,6 +8,8 @@ Code is the set of instructions that a computer understands and can execute.
 
 Code can be written in different `programming languages`. Over the years, computer scientists all over the world have created different ones. These languages are human readable but can be understood by computers. *What programming languages do you know?*
 
+Computers read and execute code, one instruction at a time, from top to bottom.
+
 ## Let's Write Some Code!
 
 The programming language used in this lesson is called `JavaScript`. It was designed in the 1990s for the World-Wide-Web.
