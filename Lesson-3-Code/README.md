@@ -40,7 +40,7 @@ Order of operations (BEDMAS/BEMDAS) and parentheses are honored:
 
 ### Using RAM
 
-Just like in *algebra*, you can create and use `variables` in programming languages to save values to be used later. Variables in programming languages can be anything, even full words (numbers and letters only)! They are assigned a value using the `=` operator. Example:
+Just like in *algebra*, you can create and use `variables` in programming languages to save values to be used later. Variables and their values are saved in RAM. Variables in programming languages can be anything, even full words (numbers and letters only)! They are assigned a value using the `=` operator. Example:
 
 ```javascript
 pi = 3.14159
@@ -61,9 +61,6 @@ diameter = 2 * radius
 circumference = diameter * pi
 areaOfCircle = pi * (radius * radius)
 ```
-
-Variables and their values are saved in RAM.
-
 
 ### Average Age Algorithm in JavaScript
 
@@ -91,8 +88,11 @@ elonMusksAge = 49
 
 total = theQueensAge + alliesAge + natesAge + elonMusksAge
 average = total / 4
+answer = average
 ```
 </details>
+
+# Congradulations, you wrote your first algorithm!
 
 ## HISTORY: Early Computer Programming
  In the early days of computer science, programmers wrote in `assembly`. This is the language that directly translates into the 1s (ones) and 0s (zeros) that computers understand. Nowadays, programmers use programming languages as they are easier to understand and write. However, at some point, all code (including what you are about to write) is translated or interpretted into `assembly` so your computer can read it and execute it. `x86` and `ARM` are some assembly languages you may have heard of.
