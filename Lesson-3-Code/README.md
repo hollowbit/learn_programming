@@ -40,7 +40,7 @@ Order of operations (BEDMAS/BEMDAS) and parentheses are honored:
 
 ### Using RAM
 
-Just like in *algebra*, you can create and use `variables` in programming languages to save values to be used later. Variables and their values are saved in RAM. Variables in programming languages can be anything, even full words (numbers and letters only)! They are assigned a value using the `=` operator. Example:
+Just like in *algebra*, you can create and use `variables` in programming languages to save values to be used later. Variables and their values are saved in RAM. Variables in programming languages can be anything, even full words! They are assigned a value using the `=` operator. Example:
 
 ```javascript
 pi = 3.14159
