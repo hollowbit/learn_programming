@@ -25,4 +25,16 @@ enemies = [{ x: 40, y: 33}, { x: 105, y: 16}]
 console.log(enemies[0].x) // 40
 ```
 
+*Try adding some enemy objects to the `enemies` list in the game. They need an `x` and `y` value:* https://jsfiddle.net/c5L0hsk9/4/
+
+
+<details>
+    <summary>Answer</summary>
+    
+    ```javascript
+        enemies.push({ x: 40, y: 70})
+    ```
+</details>
+
+
 [Next: Loops](../Lesson-11-Loops/README.md)

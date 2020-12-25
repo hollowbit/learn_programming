@@ -12,7 +12,7 @@ Write code in the `update` function to control how the game runs. Here are varia
 |y|Where the player is located on the y-axis. Set it to change the player position|
 |keyboard|Object containing 4 boolean values: up, left, down, right. They are set to true if those respective arrow keys are pressed|
 
-Using those variables, control the player using the arrow keys.
+*Using those variables, control the player using the arrow keys:* https://jsfiddle.net/c5L0hsk9/2/
 
 ## X and Y on Game Screen
 
