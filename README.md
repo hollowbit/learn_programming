@@ -32,4 +32,4 @@ This is a simple algorithm with only 3 steps, but algorithms can be complexe wit
 
 The first ever known computer algorithm was published by a woman named Ada Lovelace in the year 1843. Although she died before any computers were around to run her algorithm, she is widely regarded as the first programmer.
 
-[Next: What is RAM?](Lesson-2-RAM/README.md)
+[Next: What is RAM?](Lesson-02-RAM/README.md)

@@ -14,4 +14,4 @@ Pretty much anything. Numbers, text, images, videos, 3D objects, music, etc
 
 In the 1980s, many home computers had as little as 4 kilobytes of RAM. The Nintendo Entertainment System only had 2kb built in! 4kb can only store about 4096 characters of text. Nowadays, smart phones have at least several gigabytes of RAM. 1gb can store over 1 billion characters of text.
 
-[Next: Writing Code](../Lesson-3-Code/README.md)
+[Next: Writing Code](../Lesson-03-Code/README.md)

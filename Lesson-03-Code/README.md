@@ -1,4 +1,4 @@
-[Previous: What is RAM?](../Lesson-2-RAM/README.md)
+[Previous: What is RAM?](../Lesson-02-RAM/README.md)
 
 # What is "code" ?
 
@@ -99,4 +99,4 @@ answer = average
 ## HISTORY: Early Computer Programming
  In the early days of computer science, programmers wrote in `assembly`. This is the language that directly translates into the 1s (ones) and 0s (zeros) that computers understand. Nowadays, programmers use programming languages as they are easier to understand and write. However, at some point, all code (including the code you just wrote) is translated or interpretted into `assembly` so your computer can read it and execute it. `x86` and `ARM` are some assembly languages you may have heard of.
 
-[Next: Primitive Data Types](../Lesson-4-Primitive-Data-Types/README.md)
+[Next: Primitive Data Types](../Lesson-04-Primitive-Data-Types/README.md)

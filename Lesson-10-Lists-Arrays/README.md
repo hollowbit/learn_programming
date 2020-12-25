@@ -1,5 +1,5 @@
-[Previous: Bugs](../Lesson-9-Bugs/README.md)
+[Previous: Bugs](../Lesson-09-Bugs/README.md)
 
 # Lists / Arrays
 
-[Next: Loops](../Lesson--/README.md)
+[Next: Loops](../Lesson-11-Loops/README.md)

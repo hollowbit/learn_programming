@@ -1,4 +1,4 @@
-[Previous: Games](../Lesson-8-Games/README.md)
+[Previous: Games](../Lesson-08-Games/README.md)
 
 # Bugs
 
