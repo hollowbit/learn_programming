@@ -77,7 +77,7 @@ https://jsfiddle.net/jde6azso/
 
 Write your code in the `JavaScript` section. Click `Run` to execute your code.
 
-> NOTE: Save your answer in the variable `answer` for it to be displayed on your screen
+> NOTE: Save your answer in the variable `answer` for it to be displayed on your screen. Use this for lessons 3 to 7 to test your code.
 
 <details>
 <summary>JavaScript Answer</summary>
@@ -95,6 +95,8 @@ answer = average
 </details>
 
 # Congratulations, you wrote your first algorithm!
+
+> NOTE: Syntax errors are issues with your code. The computer is not able to understand your code and therefore cannot run it. Check the console for more information about where the error is so you can correct it.
 
 ## HISTORY: Early Computer Programming
  In the early days of computer science, programmers wrote in `assembly`. This is the language that directly translates into the 1s (ones) and 0s (zeros) that computers understand. Nowadays, programmers use programming languages as they are easier to understand and write. However, at some point, all code (including the code you just wrote) is translated or interpretted into `assembly` so your computer can read it and execute it. `x86` and `ARM` are some assembly languages you may have heard of.

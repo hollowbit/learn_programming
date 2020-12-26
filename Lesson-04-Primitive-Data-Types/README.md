@@ -30,6 +30,13 @@ isTall = false
 
 Booleans have special arithmatic. These create new boolean values.
 
+|Operator|What it does|
+|---|---|
+|!| Means "not". Turn true into false and false into true|
+|&&| When comparing 2 booleans, both must be true to get true, otherwise it is false
+|\|\||When comparing 2 booleans, at least 1 must be true, otherwise it is false|
+
+Examples:
 ```javascript
 !true // false
 true && true // true

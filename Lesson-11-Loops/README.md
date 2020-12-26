@@ -6,8 +6,8 @@ If you want to rerun certain code multiple times, or for each item in a list, yo
 
 ```javascript
 enemies.forEach(function(enemy) {
-    enemy.x += Math.randomInt(3) - 1
-    enemy.y += Math.randomInt(3) - 1
+    enemy.x += Math.random() * 4 - 2
+    enemy.y += Math.random() * 4 - 2
 })
 ```
 
