@@ -41,7 +41,7 @@ calculateAverageAge([43,645,5,24,65,35,8,12,22,56,23,54,6,2,39,84,93,15,18,53,74
 
 ## Lists in Our Game
 
-*Try adding some AI to the enemies. You can access them with the `enemies` list:* https://jsfiddle.net/c5L0hsk9/4/
+*Try adding some AI to the enemies. You can access them with the `enemies` list:* https://jsfiddle.net/khmt0oc1/1/
 
 <details>
     <summary>Example Answer</summary>
@@ -72,3 +72,8 @@ calculateAverageAge([43,645,5,24,65,35,8,12,22,56,23,54,6,2,39,84,93,15,18,53,74
         })
     ```
 </details>
+
+# Take some time to make this game interesting! Try programming any features you like
+Here is what my game ended up looking like: https://jsfiddle.net/khmt0oc1/3/
+
+> NOTE: The game is already programmed to do a GAME OVER screen when your health is < 1.
